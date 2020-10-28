@@ -1,0 +1,30 @@
+{
+  "title": "hello-world",
+  "description": "Teaching how to use the 'ls' command",
+  "difficulty": "Beginner",
+  "time": "10",
+  "details": {
+    "steps": [
+      {
+        "title": "Listing Files",
+        "text": "step1.md"
+      },
+      {
+        "title": "Final Step",
+        "text": "step2.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal"
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}
