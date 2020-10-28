@@ -1,5 +1,5 @@
 
-### Create the pod that was just described using YAML
+### Create the pod 
 
 <details><summary>show</summary>
 <p>
