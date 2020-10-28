@@ -6,15 +6,18 @@
 
 Easily generate YAML with:
 
-```bash
+```
+bash
 kubectl run nginx --image=nginx --restart=Never --dry-run=client -n mynamespace -o yaml > pod.yaml
 ```
 
-```bash
+```
+bash
 cat pod.yaml
 ```
 
-```yaml
+```
+yaml
 apiVersion: v1
 kind: Pod
 metadata:
@@ -33,13 +36,15 @@ spec:
 status: {}
 ```
 
-```bash
+```
+bash
 kubectl create -f pod.yaml -n mynamespace
 ```
 
 Alternatively, you can run in one line
 
-```bash
+```
+bash
 kubectl run nginx --image=nginx --restart=Never --dry-run=client -o yaml | kubectl create -n mynamespace -f -
 ```
 
