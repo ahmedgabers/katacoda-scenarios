@@ -2,7 +2,7 @@ Exit the container by logging out of the shell by typing `exit`{{execute}}
 
 Run the container again `docker run -ti ubuntu`{{execute}}
 
-Run `dpkg -l | wc -l`
+Run `dpkg -l | wc -l`{{execute}}
 
 How many packages are installed?
 
