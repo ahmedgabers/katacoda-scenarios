@@ -7,6 +7,11 @@
       "course_id": "Task01",
       "title": "Task01",
       "description": "Create a container from an Ubuntu image"
+    },
+    {
+      "course_id": "Task02",
+      "title": "Task02",
+      "description": "Detach and Attach to containers"
     }
   ]
 }
