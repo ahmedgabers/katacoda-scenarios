@@ -1,3 +1,3 @@
-```bash
-  docker run -d nginx
-```
+- `docker run -d nginx`
+
+3x
