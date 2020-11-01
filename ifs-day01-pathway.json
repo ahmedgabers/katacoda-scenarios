@@ -17,6 +17,11 @@
       "course_id": "Task03",
       "title": "Task03",
       "description": "Get a shell inside running containers"
+    },
+    {
+      "course_id": "Task04",
+      "title": "Task04",
+      "description": "Build images with Dockerfile"
     }
   ]
 }
