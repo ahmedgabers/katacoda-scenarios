@@ -1,21 +1,29 @@
 {
-  "title": "Core Concepts",
-  "description": "Core Concepts exercises",
+  "title": "Task01",
+  "description": "Create a container from an Ubuntu image",
   "difficulty": "Beginner",
-  "time": "20",
+  "time": "10 minutes",
   "details": {
     "steps": [
       {
-        "title": "Question 1",
+        "title": "Step 1",
         "text": "step1.md"
       },
       {
-        "title": "Question 2",
+        "title": "Step 2",
         "text": "step2.md"
       },
       {
-        "title": "Question 3",
+        "title": "Step 3",
         "text": "step3.md"
+      },
+      {
+        "title": "Step 4",
+        "text": "step4.md"
+      },
+      {
+        "title": "Step 5",
+        "text": "step5.md"
       }
     ],
     "intro": {
@@ -29,6 +37,6 @@
     "uilayout": "terminal"
   },
   "backend": {
-    "imageid": "minikube-running"
+    "imageid": "ubuntu"
   }
 }

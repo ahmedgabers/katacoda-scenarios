@@ -1,3 +1,0 @@
-# Thanks you! :)
-
-Ahmed.

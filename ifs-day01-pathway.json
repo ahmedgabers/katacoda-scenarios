@@ -1,0 +1,12 @@
+{
+  "title": "ifs-day01",
+  "description": "Labs for Day 01",
+  "courses": 
+  [
+    {
+      "course_id": "Task01",
+      "title": "Task01",
+      "description": "Create a container from an Ubuntu image"
+    }
+  ]
+}

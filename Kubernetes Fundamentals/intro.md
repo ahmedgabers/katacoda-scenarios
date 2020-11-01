@@ -1,3 +1,0 @@
-# Day 01: Introduction to containerization with Kubernetes
-
-Solve these exercices now ....

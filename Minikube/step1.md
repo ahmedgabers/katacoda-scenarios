@@ -1,5 +1,0 @@
-## Sure
-
-```
-print("hello")
-```
