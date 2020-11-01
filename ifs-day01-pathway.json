@@ -12,6 +12,11 @@
       "course_id": "Task02",
       "title": "Task02",
       "description": "Detach and Attach to containers"
+    },
+    {
+      "course_id": "Task03",
+      "title": "Task03",
+      "description": "Get a shell inside running containers"
     }
   ]
 }
