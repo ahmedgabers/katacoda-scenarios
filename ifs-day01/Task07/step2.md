@@ -4,3 +4,4 @@
 
 5- Create a volume for the logs.txt so that when the application is shut down the logs are not destroyed. And when restarted it continues to write into the same logs.txt.
 
+Save the Dockerfile as Dockerfile.backend in Day01/ directory 
