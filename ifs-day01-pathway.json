@@ -22,6 +22,21 @@
       "course_id": "Task04",
       "title": "Task04",
       "description": "Build images with Dockerfile"
+    },
+    {
+      "course_id": "Task05",
+      "title": "Task05",
+      "description": "Dockerize Java Spring Application"
+    },
+    {
+      "course_id": "Task06",
+      "title": "Task06",
+      "description": "Dockerize Ruby on Rails Application"
+    },
+    {
+      "course_id": "Task07",
+      "title": "Task07",
+      "description": "Dockerize Full Stack Application"
     }
   ]
 }
