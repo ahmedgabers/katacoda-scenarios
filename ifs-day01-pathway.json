@@ -37,6 +37,11 @@
       "course_id": "Task07",
       "title": "Task07",
       "description": "Dockerize Full Stack Application"
+    },
+    {
+      "course_id": "Task08",
+      "title": "Task08",
+      "description": "Compose a Full Stack Application"
     }
   ]
 }
