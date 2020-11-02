@@ -6,9 +6,9 @@
 
 - The requests arriving at anything other than /api will be redirected to frontend container and /api will get redirected to backend container
 
-- At the end you should see that the frontend is accessible simply by going to http://localhost and the button works
+- At the end you should see that the frontend is accessible simply by going to http://localhost 
 
-- Other buttons may have stopped working, do not worry about them
+- Other buttons may have stopped working, do not worry about them as long as 5.5 button works
 
 
 The following file should be set to /etc/nginx/nginx.conf inside the nginx container. You can use a file volume where the contents of the file are the following:
